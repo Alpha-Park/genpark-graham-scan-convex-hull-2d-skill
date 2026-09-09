@@ -1,0 +1,17 @@
+{
+  "name": "genpark-graham-scan-convex-hull-2d-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Monotone Chain Graham Scan 2D Convex Hull with Area & Perimeter Enclosure Calculator",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "computational-geometry",
+    "convex-hull",
+    "graham-scan",
+    "spatial-algorithms"
+  ]
+}
